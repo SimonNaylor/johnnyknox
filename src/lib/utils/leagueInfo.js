@@ -9,6 +9,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 export const homepageText = `
   <p>Welcome to this shithole.</p>
   <p>Naresh sucks.</p>
+  <href> https://c.tenor.com/sjw1KaKUkC0AAAAC/brian-urlacher-tackle.gif </href>
 `;
 
 /*   STEP 3   */
